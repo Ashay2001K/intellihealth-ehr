@@ -70,6 +70,15 @@ Paper link: https://ieeexplore.ieee.org/document/10837083
 
 ---
 
+## Screenshots
+![Home Screen](screenshots/HomePage.png)
+![Appointment Screen](screenshots/AppointmentPage.png)
+![Doctor page](screenshots/DoctorPage.png)
+![Register page](screenshots/RegisterPatient.png)
+![Patient page](screenshots/PatientData.png)
+
+---
+
 ## Disclaimer
 
 This project is a prototype and is not intended for real-world clinical or commercial deployment.
